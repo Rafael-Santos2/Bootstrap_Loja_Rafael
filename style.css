@@ -143,6 +143,11 @@ body {
 #bottom-navbar-container a {
     color: #FFF;
     font-weight: 600;
+    transition: 0.3s ease;
+}
+
+#bottom-navbar-container a:hover {
+    color: #626262;
 }
 
 .navbar-toggler {
